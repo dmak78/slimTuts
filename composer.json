@@ -1,0 +1,14 @@
+{
+  "name": "nettuts/slim_advanced",
+  "require": {
+        "slim/slim": "2.2.0",
+        "slim/extras": "*",
+        "twig/twig": "*"
+  },
+    "autoload": {
+        "psr-0": {
+            "Nettuts": "vendor/",
+            "Controller": "./"
+        }
+    }
+}
